@@ -1,6 +1,6 @@
 # Top 5 Agent Architectures — Hands-On Examples
 
-> Inspired by the **GenAI Architecture Guide 2026** by [@brijpandeyji](https://twitter.com/brijpandeyji)
+> Inspired by the **GenAI Architecture Guide 2026** by [@brijpandeyji](https://x.com/learnwithbrij)
 
 This project gives you **one runnable Python file per architecture** so you can read the code, run it, and immediately see how each pattern works — no hand-waving, just real LLM calls.
 
